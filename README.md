@@ -1,7 +1,7 @@
 ## 📃 Responsive Web Page📄
 Created an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu have a fixed position and is visible on all pages. Used HTML to structure the menu, CSS to style it, and JavaScript to add interactivity, such as changing the background color of the menu when it is scrolled or when a menu item is hovered over.
 
-<a href="https://kapilbodkhe.github.io/PRODIGY_WD_04/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://kapilbodkhe.github.io/PRODIGY_WD_01/task1.html" target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 Tech Stack Used
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
